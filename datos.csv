@@ -1,0 +1,8 @@
+O,1,Las Aguas,3,500000,45.5,En Casa,
+P,2,Roma,3,1200000,46.5,7,
+E,3,Las florez,4,27850000,56.7,10,7,Juan Perez,9087968,33,M,
+L,4,Serna,2,375000,50.0,Local recien construido,true,
+PE,5,Las Florez,4,1670000,200.0,5,3,
+OP,6,Las Florez,4,787000,35.6,En Edificio,5,
+LE,7,Las Florez,4,650000,37.8,Local en buen estado,false,3,
+OP,8,Roma,3,504000,47.5,En Casa,2,
